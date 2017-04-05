@@ -1138,7 +1138,7 @@ ul {
 /*font-Seaweed-Script*/
 
 .font-Seaweed-Script h2, .font-Seaweed-Script h1, .font-Seaweed-Script h2 a, .font-Seaweed-Script h3 {
-		font:400 50px/50px Seaweed Script;
+		font:400 50px/50px Roboto Mono;
 		text-transform: none;
 		color: #c59d5f
 	}
@@ -1150,29 +1150,29 @@ ul {
 		color: #fff!important
 	}
 	.font-Seaweed-Script .box_content h3, .font-Seaweed-Script h4 {
-		font:300 28px/38px Seaweed Script;
+		font:300 28px/38px Roboto Mono;
 		text-transform:none;
 	}
 	.font-Seaweed-Script .great_title {
-		font: 400 60px/68px Seaweed Script;
+		font: 400 60px/68px Roboto Mono;
 		text-transform: none;
 	}
 		.font-Seaweed-Script .great_title_big {
-			font: 400 74px/79px Seaweed Script;
+			font: 400 74px/79px Roboto Mono;
 		}
 		.font-Seaweed-Script .great_title_small {
-			font: 400 34px/40px Seaweed Script;
+			font: 400 34px/40px Roboto Mono;
 		}
 
 	.font-Seaweed-Script .countdown-amount {
-		font: 400 50px/60px Seaweed Script;
+		font: 400 50px/60px Roboto Mono;
 	}
 	.font-Seaweed-Script .mini_title {
-		font: 400 50px/60px Seaweed Script;
+		font: 400 50px/60px Roboto Mono;
 		text-transform: none;
 	}
 	.font-Seaweed-Script .menu_item span {
-		font: 400 28px/38px Seaweed Script
+		font: 400 28px/38px Roboto Mono
 	}
 
 /*font-Roboto-Slab*/
@@ -4412,7 +4412,7 @@ blockquote footer {
 		}
 
 	.font-Seaweed-Script .great_title {
-		font:400 40px/48px Seaweed Script!important;
+		font:400 40px/48px Roboto Mono!important;
 	}
 	.bordered_block .simple_block {
 		padding: 0 24px!important

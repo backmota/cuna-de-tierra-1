@@ -51,7 +51,7 @@
 
 /*Main Styles*/
 body {
-    color: #e1e1e1;
+    color: #777;
     font:400 14px/26px "Open Sans",sans-serif;
 	margin:0;
 	padding:0;
@@ -626,6 +626,14 @@ html {
 	.add-to-cart {
 		display: inline-block;
 		width: 57px;
+		height: 36px;
+		margin: 0 10px 0 0;
+		vertical-align: top;
+		position: relative;
+	}
+	.add-to-cart2 {
+		display: inline-block;
+		width: 100px;
 		height: 36px;
 		margin: 0 10px 0 0;
 		vertical-align: top;
@@ -2846,6 +2854,7 @@ blockquote footer {
 }
 .into_txt {
 	font: 14px/18px Open Sans;
+	color: #e1e1e1;
 }
 	.intro_text {
 		position: absolute;
